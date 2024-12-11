@@ -1,0 +1,5 @@
+PurchaseDeal, Buyer: Alice, Price: 250000
+SaleDeal, Seller: Bob, Price: 300000
+RentalDeal, Renter: Charlie, Monthly Rate: 1500
+MortgageDeal, Lender: Diana, Interest Rate: 3.5
+LeaseDeal, Lessee: Edward, Lease Term: 24
